@@ -1,6 +1,6 @@
-# harmonic-oscillator-pinn
+# Harmonic-Oscillator-PINN
 
-Physics-informed neural networks are a powerful way of incorporating physical principles into machine learning. By incorporating existing physical principles into machine learning we are able to create more powerful models that learn from data and build upon our existing scientific knowledge.
+Physics-informed Neural Networks are a powerful way of incorporating physical principles into machine learning. By incorporating existing physical principles into machine learning we are able to create more powerful models that learn from data and build upon our existing scientific knowledge.
 
 Here's a nice article explaining Physics-informed neural networks in a very clear and concise way with the example of a harmonic oscillator👉 https://lnkd.in/e4rUttHa
 

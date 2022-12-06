@@ -2,7 +2,7 @@
 
 Physics-informed Neural Networks are a powerful way of incorporating physical principles into machine learning. By incorporating existing physical principles into machine learning we are able to create more powerful models that learn from data and build upon our existing scientific knowledge.
 
-Here's a nice article explaining Physics-informed neural networks in a very clear and concise way with the example of a harmonic oscillator👉 https://lnkd.in/e4rUttHa
+Here's a nice article explaining Physics-informed neural networks in a very clear and concise way with the example of a harmonic oscillators👉 https://lnkd.in/e4rUttHa
 
 <img src="figures/pinn.gif" width="850">
 
